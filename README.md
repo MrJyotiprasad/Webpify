@@ -40,3 +40,31 @@ Perfect for bloggers, developers, and digital creators aiming to optimize images
 **Before:**
 
 **After Running Webpify:**
+
+
+---
+
+## 📌 Version History
+
+| Version | Date       | Description        |
+|---------|------------|--------------------|
+| v1.0    | 2025-04-14 | Initial release 🚀 |
+
+---
+
+## 📃 License
+
+Released under the **MIT License** – Free to use, modify, and distribute.
+
+---
+
+## ✨ Created By
+
+Crafted with 💙 by [Electrolab](https://electrolab.in)  
+Author: [@mrjyotiprasad](https://github.com/mrjyotiprasad)
+
+---
+
+## 🔎 Tags
+
+`webp` `image-converter` `batch-script` `cwebp` `automation` `windows-tools` `Electrolab` `optimize-images`
